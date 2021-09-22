@@ -1,0 +1,7 @@
+name: VerifyAPI
+version: 0.1
+author: MorrisBr
+main: de.morrisbr.verify.VerifyPlugin
+
+commands:
+  verify:
